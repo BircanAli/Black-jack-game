@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-image: url(images/blackjack1.jpg);
+  background-size: cover;
+  color: white;
+  font-weight: bold;
+
+  padding: 3%;
+}
+h1 {
+  color: goldenrod;
+}
+#message-el {
+  font-style: italic;
+}
+.btn {
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  border: none;
+  padding: 1rem;
+  font-weight: bold;
+}
